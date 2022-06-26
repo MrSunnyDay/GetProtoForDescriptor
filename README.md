@@ -1,0 +1,2 @@
+# GetProtoForDescriptor
+从descriptor.proto获取proto文件
